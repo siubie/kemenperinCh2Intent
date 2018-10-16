@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ReviewDayOne</string>
+    <string name="diskon">Diskon</string>
+    <string name="keliling">keliling</string>
+    <string name="luas">luas</string>
+    <string name="masukkan_harga">Harga</string>
+    <string name="hitung_diskon">Hitung Diskon</string>
+</resources>
